@@ -18,7 +18,7 @@ $(call inherit-product, vendor/dot/config/common.mk)
 TARGET_BOOT_ANIMATION_RES := 720
 
 # Device Maintainer
-DEVICE_MAINTAINER := AOiSPdev
+DEVICE_MAINTAINER := Atharv
 
 # FaceUnlock
 TARGET_FACE_UNLOCK_SUPPORTED := true
@@ -27,7 +27,7 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_INCLUDE_PIXEL_CHARGER := true
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := dot_pine
+PRODUCT_NAME := arrow_pine
 PRODUCT_DEVICE := pine
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 7A
